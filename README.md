@@ -16,15 +16,15 @@ Features
 
 * Render as native
 
-The alternative subtitle will be inserted to the original text as a new line, and set font size a bit smaller.
+  The alternative subtitle will be inserted to the original text as a new line, and set font size a bit smaller.
 
 * Any subtitle source
 
-You can choose any subtitle source from the player, or use "auto translate" to translate it to another any language.
+  You can choose any subtitle source from the player, or use "auto translate" to translate it to another any language.
 
 * Optimized merge algorithm
 
-Two subtitles never overlay each other, even they have difference time positions.
+  Two subtitles never overlay each other, even they have difference time positions.
 
 [View more screenshots](./docs/screenshot.md)
 
