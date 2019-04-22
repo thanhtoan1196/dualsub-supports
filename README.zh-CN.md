@@ -33,8 +33,8 @@ Dualsub 是一个 Chrome 浏览器扩展，让 YouTube 播放器实现双语字�
 
 | 浏览器  | 版本             | 当前状态 |
 | ------  | ----             | -------- |
-| Chrome  | [0.3.3][chrome]  | 已发布   |
-| Firefox | [0.3.3][firefox] | 已发布   |
+| Chrome  | [0.3.4][chrome]  | 已发布   |
+| Firefox | [0.3.4][firefox] | 已发布   |
 
 [chrome]: https://chrome.google.com/webstore/detail/dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp
 [firefox]: https://addons.mozilla.org/firefox/addon/dualsub/

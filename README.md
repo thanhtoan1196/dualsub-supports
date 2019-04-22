@@ -33,8 +33,8 @@ Install
 
 | Browser | Version          | Status    |
 | ------- | -------          | ------    |
-| Chrome  | [0.3.3][chrome]  | Published |
-| Firefox | [0.3.3][firefox] | Published |
+| Chrome  | [0.3.4][chrome]  | Published |
+| Firefox | [0.3.4][firefox] | Published |
 
 [chrome]: https://chrome.google.com/webstore/detail/dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp
 [firefox]: https://addons.mozilla.org/firefox/addon/dualsub/

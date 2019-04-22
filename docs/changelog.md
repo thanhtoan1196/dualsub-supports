@@ -3,6 +3,13 @@ Changelog
 
 [简体中文](./changelog.zh-CN.md)
 
+v0.3.4
+------
+
+Release Data: 2019-04-22
+
+* Fix custom style not applied bug
+
 v0.3.3
 ------
 
